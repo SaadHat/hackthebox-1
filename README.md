@@ -109,3 +109,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Jerry | <img src="https://www.hackthebox.eu/images/win.png" width="20" height="20"> | :wink: | :wink: | Active | TBD |
 | Poison | <img src="https://www.hackthebox.eu/images/freebsd.png" width="20" height="20"> | :wink: | :wink: | Retired | TBD |
+| Writeup | <img src="https://www.hackthebox.eu/images/writeup.png" width="20" height="20"> | :wink: | :wink: | Retired | Uploaded |
